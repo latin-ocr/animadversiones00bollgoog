@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "animadversiones00bollgoog_0008.png"; bbox 0 0 3388 5050; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 252 682 1461 1147">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 169 667 1461 1147">
+     <span class='ocr_line' id='line_1_1' title="bbox 252 682 1461 985; baseline 0.009 -93.229"><span class='ocrx_word' id='word_1_1' title='bbox 252 727 897 894; x_wconf 62' lang='lat' dir='ltr'><strong>Afflmvsssssffls</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 942 743 1255 894; x_wconf 62' lang='lat' dir='ltr'><strong>cfflwczffl</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1300 763 1376 892; x_wconf 67' lang='lat' dir='ltr'><strong>m</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1458 682 1461 985; x_wconf 66' lang='grc' dir='ltr'><em>ξ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 430 1011 1190 1147; baseline -0.001 -4"><span class='ocrx_word' id='word_1_5' title='bbox 430 1011 822 1147; x_wconf 74' lang='lat' dir='ltr'>PLUTARGHI</span> <span class='ocrx_word' id='word_1_6' title='bbox 865 1011 1190 1145; x_wconf 66' lang='lat' dir='ltr'><strong>mmm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 419 1787 1216 1890">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 419 1787 1216 1890">
+     <span class='ocr_line' id='line_1_3' title="bbox 419 1787 1216 1890; baseline -0.003 -2"><span class='ocrx_word' id='word_1_7' title='bbox 419 1815 628 1890; x_wconf 69' lang='lat' dir='ltr'>sPEcssfflN</span> <span class='ocrx_word' id='word_1_8' title='bbox 650 1787 917 1890; x_wconf 63' lang='lat' dir='ltr'><strong>mmmmm</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 940 1815 1216 1890; x_wconf 67' lang='lat' dir='ltr'><strong>INAUGURALE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 550 2552 1085 2660">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 550 2552 1085 2660">
+     <span class='ocr_line' id='line_1_4' title="bbox 550 2552 1085 2660; baseline -0.002 -2"><span class='ocrx_word' id='word_1_10' title='bbox 550 2553 600 2659; x_wconf 73' lang='lat' dir='ltr'><strong>G.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 638 2552 680 2658; x_wconf 80' lang='lat' dir='ltr'><strong>G.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 719 2554 772 2660; x_wconf 86' lang='lat' dir='ltr'><strong>N.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 809 2553 1085 2658; x_wconf 80' lang='lat' dir='ltr'><strong>BOLLAAN.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1698 5050">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1698 5050">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1698 5050; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1698 5050; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
